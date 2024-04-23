@@ -835,3 +835,32 @@ circle() | ``` %, % at <corner>```
 ellipse() | ``` <position> <position>, <position> <position> at <corner>```
 polygon() | ``` 0 50px, 50px 80px, 50px 120px (triangle)```
 
+## scroll snap
+
+#### Scroll snap properties
+
+Properties | Value
+---- | ---
+scroll-snap-type | ``` x, y, both, block, inline, x mandatory, x proxmity, both mandatory```
+scroll-snap-aling | ``` start, end, center, none, start end```
+scroll-padding | ``` px, %, rem, em```
+scroll-margin | ``` px, %, rem, em```
+scroll-snap-stop | ```normal, always ```
+scroll-margin-top | ``` px, %, rem, em```
+scroll-margin-bottom | ``` px, %, rem, em```
+scroll-margin-left | ``` px, %, rem, em```
+scroll-margin-right | ``` px, %, rem, em```
+scroll-margin-block | ``` px, %, rem, em```
+scroll-margin-block-start | ``` px, %, rem, em```
+scroll-margin-block-end | ``` px, %, rem, em```
+scroll-margin-inline | ``` px, %, rem, em```
+scroll-margin-inline-start  |``` px, %, rem, em```
+scroll-margin-inline-end | ``` px, %, rem, em```
+
+
+#### Other properties
+
+Properties | Value
+--- | ----
+
+
